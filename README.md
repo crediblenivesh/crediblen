@@ -12,7 +12,7 @@ int main() {
     circle.setFillColor(sf::Color::Green);
     circle.setPosition(100, 100);
 
-    // Set initial 111111111111111111 movement speed
+    // Set initial test-ind-api(fyinformation)cc movement speed
     sf::Vector2f velocity(2.0f, 3.0f);
 
     // Run the program as long as the window is open
